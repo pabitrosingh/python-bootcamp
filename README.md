@@ -118,4 +118,75 @@ User login, post creation/editing, database-backed blog.
 - API Integration Task
 - Web demo of personal blog
 
+---
+### 📒 Month 5: Databases, Advanced Python, and Automation
+#### 🎯 Objective: Dive into persistence, advanced topics & real-world scripts.
 
+**Topics:**
+- Database basics with SQLite/PostgreSQL
+- SQLAlchemy ORM
+- Decorators, Generators
+- Multithreading vs Multiprocessing
+- Working with Dates, Times, and Schedulers
+- Automation with Python (scripts, email, file renaming, backups)
+
+**Real-World Examples:**
+- Auto email sender
+- Folder organization tool
+- Chatbot with Telegram API
+
+**Project:**
+
+“Automation Suite + Task Scheduler”
+Automate daily tasks like data scraping, emails, backups, etc.
+
+**Assessment:**
+- Task: Create a CLI + scheduler app
+- Peer review and group discussion
+
+---
+### 📓 Month 6: Capstone Project + Career Prep
+#### 🎯 Objective: Consolidate all skills in a full-stack project; prepare for jobs.
+
+**Topics:**
+- Recap: Core to Advanced Python
+- Git & GitHub Workflows
+- DevOps Basics (venv, Docker intro)
+- Writing production-level code
+- Logging & Monitoring
+- Software Design Patterns in Python
+- Interview Preparation (DSA + Projects)
+
+**Capstone Projects (choose one):**
+- Inventory Management System (Web + DB)
+- Personal Finance Tracker with Reports & Charts
+- E-learning Platform Backend (REST API)
+
+**Career Prep:**
+- Mock interviews
+- Resume & GitHub Portfolio building
+- Open-source contributions
+
+**Final Assessment:**
+- Capstone evaluation by mentors
+- GitHub code submission
+- Presentation + Q&A
+
+---
+### 📚 Recommended Resources
+**Books:**
+- Python Crash Course – Eric Matthes
+- Fluent Python – Luciano Ramalho (for advanced learners)
+
+**Online Platforms:**
+- realpython.com
+- LeetCode – for DSA
+- Python Tutor – code visualization
+- GitHub Copilot – AI coding assistant
+
+---
+### ✅ Final Outcome
+- After this bootcamp, learners will:
+- Master Python fundamentals, OOP, Web, APIs, and Automation
+- Build portfolio-worthy projects
+- Be job-ready for roles like Python Developer, Backend Developer, Data Analyst (with further specialization)
