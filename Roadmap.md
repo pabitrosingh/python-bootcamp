@@ -127,6 +127,13 @@ Topics:
 * Prompt Engineering
 * RAG
 * LangChain
+* LangGraph
+* LlamaIndex
+* Chroma
+* Pinecone
+* Milvus
+* PyTorch
+* TensorFlow
 * AI Agents
 
 Projects:
@@ -135,6 +142,7 @@ Projects:
 * AI Document Assistant
 * RAG Chatbot
 * Multi-Agent Assistant
+* Semantic Kernel
 
 ---
 
@@ -149,6 +157,12 @@ Topics:
 * Evaluation
 * Agent Frameworks
 * MCP
+* Hugging Face
+* Ollama
+* vLLM
+* TensorRT-LLM
+* CrewAI
+* Autogen
 * Kubernetes
 * Cloud Deployment
 
