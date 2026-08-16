@@ -164,6 +164,9 @@ Topics:
 * CrewAI
 * Autogen
 * Kubernetes
+* FastAPI
+* Docker
+* LangSmith
 * Cloud Deployment
 
 Projects:
