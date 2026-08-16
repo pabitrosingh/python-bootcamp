@@ -120,6 +120,9 @@ Topics:
 * NumPy
 * Pandas
 * Machine Learning Basics
+* Matplotlib
+* SciPy
+* scikit-learn or sklearn
 * LLM Fundamentals
 * Prompt Engineering
 * RAG
