@@ -20,9 +20,9 @@ By the end of this week, you should be able to compare values, combine condition
 - [Example 2: Boolean logic](./02_Examples.md)
 - [Example 3: `if`/`elif`/`else` ladder](./03_Examples.md)
 - [Example 4: a transaction decision](./04_Examples.md)
-- [Example 5: nested conditions](./05_Nested_Conditionals.md)
-- [Example 6: conditional expressions](./06_Conditional_Expressions.md)
-- [Example 7: `match`/`case`](./07_Match_Case.md)
+- [Example 5: nested conditions](./05_Examples.md)
+- [Example 6: conditional expressions](./06_Examples.md)
+- [Example 7: `match`/`case`](./07_Examples.md)
 
 ## Common mistakes to check
 

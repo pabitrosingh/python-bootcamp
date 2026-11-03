@@ -34,4 +34,4 @@ else:
     print("Cool")
 ```
 
-For decisions inside decisions, see [Example 5: nested conditions](./05_Nested_Conditionals.md).
+For decisions inside decisions, see [Example 5: nested conditions](./05_Examples.md).

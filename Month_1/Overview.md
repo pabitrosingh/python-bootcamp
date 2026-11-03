@@ -17,6 +17,10 @@ By the end of the month, you should be able to:
 
 No prior programming experience is required. Install Python 3.10 or newer and a code editor, then follow [Week 1 environment setup](./Week_1/Environment_Setup.md).
 
+## Roadmap projects
+
+The [roadmap-aligned project set](./Project/README.md#roadmap-projects) includes a [Calculator](./Project/Calculator/README.md), an [Expense Tracker](./Project/Expense_Tracker/README.md), and the [Student Management System](./Project/README.md). Use the [problem-solving guide](./Problem_Solving.md) to plan and test each one.
+
 ## Weekly plan
 
 | Week | Focus | Project |

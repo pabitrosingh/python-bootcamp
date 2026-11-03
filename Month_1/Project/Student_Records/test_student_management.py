@@ -1,6 +1,6 @@
 import unittest
 
-from student_management import (
+from Month_1.Project.Student_Records.student_management import (
     add_student_record,
     calculate_average,
     find_student,

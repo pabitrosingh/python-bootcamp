@@ -18,9 +18,9 @@ Topics:
 
 Projects:
 
-* Calculator
-* Student Management System
-* Expense Tracker
+* [Calculator](./Month_1/Project/Calculator/README.md)
+* [Student Management System](./Month_1/Project/README.md)
+* [Expense Tracker](./Month_1/Project/Expense_Tracker/README.md)
 
 ---
 

@@ -17,4 +17,4 @@ else:
 
 Test the three branches with `0`, `150`, and `25`. What happens if the user enters text instead of a number? That input error will be handled in Week 4.
 
-For more complex dependent decisions, study [nested conditions](./05_Nested_Conditionals.md). For choosing a short value or a command branch, compare [conditional expressions](./06_Conditional_Expressions.md) and [`match`/`case`](./07_Match_Case.md).
+For more complex dependent decisions, study [nested conditions](./05_Examples.md). For choosing a short value or a command branch, compare [conditional expressions](./06_Examples.md) and [`match`/`case`](./07_Examples.md).
