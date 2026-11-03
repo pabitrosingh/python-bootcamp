@@ -1,4 +1,4 @@
-# Month 1 / Week 1: Day 1 — Variables & Basic Data Types
+# Month 1 / Week 1: Day 2 - Variables and Basic Data Types
 
 Today we are covering how Python stores information and the four most fundamental data types you will use every single day.
 
@@ -16,7 +16,7 @@ print(bootcamp_duration_months)
 We will focus on two foundational concepts: Variables (how Python remembers things) and Data Types (the kinds of things it can remember).
 
 ### 📖 The Concept
-Think of a variable like a labeled storage box. You can put something inside the box, give the box a name, and change its contents whenever you want. The data type defines exactly what kind of item you are putting inside that box
+Think of a variable like a labeled storage box. You can put something inside the box, give the box a name, and change its contents whenever you want. The data type defines exactly what kind of item you are putting inside that box.
 
 ## 2. The Core 4 Data Types
 Python automatically figures out what kind of data you are giving it. Here are the primary types:
@@ -38,7 +38,7 @@ temperature = -5
 ### C. Floats (float)
 Numbers with a decimal point. Crucial for precise measurements or financial data.
 
-```pyton
+```python
 pi_value = 3.14159
 price = 19.99
 ```

@@ -4,6 +4,7 @@
 
 ```python
 print("Hello World")
+```
 
 ## Variables
 name = "John"

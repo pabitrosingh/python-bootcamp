@@ -37,6 +37,10 @@ Every topic follows:
 9. Commit Code to GitHub
 10. Document Learnings
 
+## Start here
+
+Begin with the [Month 1 Python Foundations curriculum](./Month_1/Overview.md). It contains a complete four-week beginner module, weekly projects, and a tested month-end capstone.
+
 ## Expected Outcome
 
 By the end of this bootcamp I will be able to:

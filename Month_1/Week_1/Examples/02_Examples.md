@@ -1,4 +1,4 @@
-# Month 1 / Week 1: Day 2 — Basic Math Operations & String Manipulation
+# Month 1 / Week 1: Day 3 - Basic Math Operations and Strings
 
 Today we are learning how to perform mathematical calculations using numbers, and how to combine or modify text strings.
 
@@ -58,7 +58,7 @@ cheer = "Go! "
 print(cheer * 3)  # Output: Go! Go! Go!
 ```
 
-### C. F-Strings (Formated Strings) - The Best Way to Output Text
+### C. F-Strings (Formatted Strings)
 Instead of using + to join text and variables, you can put an f right before your string quotes and use curly brackets {} to inject variables directly.
 
 ```python

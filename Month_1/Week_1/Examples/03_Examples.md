@@ -1,10 +1,10 @@
-# Month 1 / Week 1: Day 3 — User Input & Type Casting
+# Month 1 / Week 1: Day 4 - User Input and Type Conversion
 
 Today we are learning how to make our Python programs interactive by capturing user inputs, and how to convert data between different types (Type Casting).
 
 ---
 
-## 1. Capturing User Input
+## 1. Capturing user input
 Python uses the built-in `input()` function to pause code execution and wait for the user to type something into the terminal.
 
 > ⚠️ **CRITICAL RULE:** The `input()` function **always** reads user input as a String (`str`), even if the user types a number!
@@ -20,10 +20,10 @@ age = input("Enter your age: ")
 print(type(age))  # Output: <class 'str'>
 ```
 
-## 2. Type Casting (Data Conversion)
+## 2. Type conversion
 Because input() treats everything as text, we cannot do math with it immediately. If a user inputs "25", we have to convert that text string into a real integer. This conversion process is called Type Casting.
 
-We use functions named exactly after the data types: int(), float(), str(), and bool().
+We use functions named after data types: `int()`, `float()`, and `str()`. `bool()` checks truthiness rather than understanding text such as `"True"` or `"False"`; for yes/no questions, compare the entered text explicitly.
 
 ### A. Converting String to Integer / Float
 
@@ -31,7 +31,7 @@ We use functions named exactly after the data types: int(), float(), str(), and 
 ```python
 birth_year_input = input("What year were you born? ")  # Example: "2000"
 birth_year = int(birth_year_input)                    # Casts "2000" (str) to 2000 (int)
-current_year = 2026
+current_year = 2026  # Replace this example value with the current year
 calculated_age = current_year - birth_year
 print(f"You are roughly {calculated_age} years old!")
 ```
