@@ -41,6 +41,8 @@ Every topic follows:
 
 Begin with the [Month 1 Python Foundations curriculum](./Month_1/Overview.md). It contains a complete four-week beginner module, weekly projects, and a tested month-end capstone.
 
+Continue with the [Month 2 Python Data Structures curriculum](./Month_2/Overview.md) for lists, tuples, sets, dictionaries, files, modules, packages, recursion, and three tested projects.
+
 ## Expected Outcome
 
 By the end of this bootcamp I will be able to:

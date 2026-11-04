@@ -31,19 +31,21 @@ Duration: Month 2
 Topics:
 
 * Lists
+* List Comprehensions
 * Tuples
 * Sets
 * Dictionaries
 * File Handling
+* JSON
 * Modules
 * Packages
 * Recursion
 
 Projects:
 
-* Contact Manager
-* Library Management System
-* File Analyzer
+* [Contact Manager](./Month_2/Week_2/Project/README.md)
+* [Library Management System](./Month_2/Week_4/Project/README.md)
+* [File Analyzer](./Month_2/Week_3/Project/README.md)
 
 ---
 
