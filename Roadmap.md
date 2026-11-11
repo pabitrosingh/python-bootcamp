@@ -61,12 +61,14 @@ Topics:
 * PyTest
 * Design Patterns
 * Logging
+* Errors and Exceptions handeling
+* Standard Libraries
 
 Projects:
 
-* Banking Application
-* Inventory Management System
-* Employee Management System
+* [Banking Application](./Month_3/Week_1/Project/README.md)
+* [Inventory Management System](./Month_3/Week_2/Project/README.md)
+* [Employee Management System](./Month_3/Week_4/Project/README.md)
 
 ---
 
@@ -77,10 +79,8 @@ Duration: Month 4
 Topics:
 
 * REST APIs
-* Flask
 * FastAPI
 * SQLite
-* PostgreSQL
 * SQLAlchemy
 
 Projects:

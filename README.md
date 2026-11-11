@@ -43,6 +43,8 @@ Begin with the [Month 1 Python Foundations curriculum](./Month_1/Overview.md). I
 
 Continue with the [Month 2 Python Data Structures curriculum](./Month_2/Overview.md) for lists, tuples, sets, dictionaries, files, modules, packages, recursion, and three tested projects.
 
+Then complete the [Month 3 Professional Python curriculum](./Month_3/Overview.md) for object-oriented programming, SOLID principles, testing, exceptions, logging, design patterns, and three tested applications.
+
 ## Expected Outcome
 
 By the end of this bootcamp I will be able to:
