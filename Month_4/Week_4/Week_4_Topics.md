@@ -30,6 +30,10 @@ By the end of this week, you should be able to map Python classes to database ta
 - [Example 3: Query records and filter them](./03_Examples.md)
 - [Example 4: Build a small relationship between models](./04_Examples.md)
 
+## Project
+
+Build the [CRM Backend](./Project/README.md) with SQLAlchemy 2.x models, a one-to-many customer/notes relationship, and database-backed API routes.
+
 ## Official references
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)

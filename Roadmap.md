@@ -85,9 +85,9 @@ Topics:
 
 Projects:
 
-* Blog Platform
-* Task Management API
-* CRM Backend
+* [Blog Platform](./Month_4/Week_3/Project/README.md)
+* [Task Management API](./Month_4/Week_2/Project/README.md)
+* [CRM Backend](./Month_4/Week_4/Project/README.md)
 
 ---
 
@@ -107,9 +107,9 @@ Topics:
 
 Projects:
 
-* Web Scraper
-* Automation Suite
-* Monitoring Tool
+* [Web Scraper](./Month_5/Week_1/Project/README.md)
+* [Automation Suite](./Month_5/Week_4/Project/README.md)
+* [Monitoring Tool](./Month_5/Week_2/Project/README.md)
 
 ---
 

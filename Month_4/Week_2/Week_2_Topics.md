@@ -30,6 +30,10 @@ By the end of this week, you should be able to create a minimal FastAPI app, def
 - [Example 3: Request body validation with Pydantic](./03_Examples.md)
 - [Example 4: Handling errors and HTTP status codes](./04_Examples.md)
 
+## Project
+
+Build the [Task Management API](./Project/README.md) with FastAPI, validated request models, resource-oriented routes, and CRUD operations.
+
 ## Official references
 
 - [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/)

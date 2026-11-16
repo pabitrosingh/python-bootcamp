@@ -45,6 +45,10 @@ Continue with the [Month 2 Python Data Structures curriculum](./Month_2/Overview
 
 Then complete the [Month 3 Professional Python curriculum](./Month_3/Overview.md) for object-oriented programming, SOLID principles, testing, exceptions, logging, design patterns, and three tested applications.
 
+Continue with [Month 4 Backend Development](./Month_4/Overview.md) for HTTP, REST APIs, FastAPI, SQLite, and SQLAlchemy.
+
+Then complete [Month 5 Advanced Python](./Month_5/Overview.md) for decorators, generators, concurrency, asynchronous programming, automation, and three tested projects.
+
 ## Expected Outcome
 
 By the end of this bootcamp I will be able to:

@@ -30,6 +30,10 @@ By the end of this week, you should be able to create a SQLite database, write S
 - [Example 3: Query and filter tasks](./03_Examples.md)
 - [Example 4: Update and delete records](./04_Examples.md)
 
+## Project
+
+Build the [Blog Platform](./Project/README.md), a CRUD API backed by SQLite with parameterized SQL and explicit transaction boundaries.
+
 ## Official references
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)

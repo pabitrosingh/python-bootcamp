@@ -19,12 +19,12 @@ Complete [Month 1](../Month_1/Overview.md), [Month 2](../Month_2/Overview.md), a
 
 ## Weekly plan
 
-| Week | Focus | Theme |
+| Week | Focus | Project |
 |---|---|---|
-| [Week 1](./Week_1/Week_1_Topics.md) | REST APIs and HTTP fundamentals | Understand the request/response model |
-| [Week 2](./Week_2/Week_2_Topics.md) | FastAPI basics | Build clean endpoints and validation |
-| [Week 3](./Week_3/Week_3_Topics.md) | SQLite and SQL | Persist application data safely |
-| [Week 4](./Week_4/Week_4_Topics.md) | SQLAlchemy ORM | Model data and compose a backend |
+| [Week 1](./Week_1/Week_1_Topics.md) | REST APIs and HTTP fundamentals | Route and request-design practice |
+| [Week 2](./Week_2/Week_2_Topics.md) | FastAPI basics | [Task Management API](./Week_2/Project/README.md) |
+| [Week 3](./Week_3/Week_3_Topics.md) | SQLite and SQL | [Blog Platform](./Week_3/Project/README.md) |
+| [Week 4](./Week_4/Week_4_Topics.md) | SQLAlchemy ORM | [CRM Backend](./Week_4/Project/README.md) |
 
 Each week includes worked examples, short exercises, and links to the relevant official documentation.
 
@@ -36,6 +36,25 @@ Each week includes worked examples, short exercises, and links to the relevant o
 - SQLite (`sqlite3` standard library)
 - SQLAlchemy 2.x
 - `python-dotenv` (optional for configuration)
+
+## Install and test the projects
+
+From the repository root, install the Month 4 dependencies in a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+python -m pip install -r Month_4/requirements.txt
+```
+
+Run all Month 4 project tests with:
+
+```bash
+python -m unittest -v \
+    Month_4.Week_2.Project.test_task_api \
+    Month_4.Week_3.Project.test_blog \
+    Month_4.Week_4.Project.test_crm
+```
 
 ## Official references
 
